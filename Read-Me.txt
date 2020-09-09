@@ -1,0 +1,17 @@
+**** phpMyAdmin ****
+ID : root
+PASSWORD : 12345678
+====================
+
+
+**** Admin ****
+ID : Admin
+PASSWORD : 123456
+====================
+
+
+
+**** Usertest ****
+ID : taechaput
+PASSWORD : taechaput
+====================
